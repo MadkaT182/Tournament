@@ -1,0 +1,2 @@
+InitVars()
+return Def.ActorFrame{}
